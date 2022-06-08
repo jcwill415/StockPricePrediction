@@ -1,7 +1,7 @@
 # Stock Market Price Predictor using Supervised Learning
 
 ### Aim
-To examine a number of different forecasting techniques to predict future stock returns based on past returns and numerical news indicators to construct a portfolio of multiple stocks in order to diversify the risk. We do this by applying supervised learning methods for stock price forecasting by interpreting the seemingly chaotic market data.
+Predicting stock returns based on past performance and numerical news indicators. Examining a range of forecasting techniques, and constructing a stock portfolio to diversify/manage investment risk. Supervised learning methods are used to analyze stock market data and build forecast model.
 
 ## Setup Instructions
 ```
@@ -11,6 +11,7 @@ To examine a number of different forecasting techniques to predict future stock 
 ```
 
 Download the Dataset needed for running the code from [here](https://drive.google.com/open?id=0B2lCmt16L_r3SUtrTjBlRHk3d1E).
+* This will be updated to pull live and historical stock pricing data from Yahoo Finance (and other finance APIs).
 
 ## Project Concept Video
 [![Project Concept Video](screenshots/presentation.gif)](https://www.youtube.com/watch?v=z6U0OKGrhy0)
